@@ -3,3 +3,5 @@
 This is my thread attempt in understanding Git
 
 adding a second line
+
+adding a third LINE
